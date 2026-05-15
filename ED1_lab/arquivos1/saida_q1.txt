@@ -1,0 +1,8 @@
+Amanda	7.500000	Aprovado
+Alberto	5.166667	Reprovado
+Jane	6.433333	Reprovado
+Igor	8.833333	Aprovado
+Samara	9.000000	Aprovado
+Maria Luiza	10.000000	Aprovado
+Cesar	9.000000	Aprovado
+Pedro Felipe	7.000000	Aprovado
