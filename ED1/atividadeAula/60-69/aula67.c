@@ -4,7 +4,7 @@ void bolha_otimizada(int v[], int n) {
   int i, j;
   for (i = 0; i < n; i++) {
     int trocou = 0;
-    for (j = n - 1; j >= 0; j--) {
+    for (j = n - 1; j > i; j--) {
       if (v[j] > v[j - 1]) {
         int temp = v[j];
         v[j] = v[j - 1];
